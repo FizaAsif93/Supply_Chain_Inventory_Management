@@ -5,7 +5,7 @@ Optimizing supply chain operations is crucial for enhancing collaboration, produ
 This repository contains a comprehensive analysis and dashboarding project aimed at optimizing supply chain inventory management. By utilizing various tools and techniques, this project provides actionable insights to streamline operations and enhance decision-making.
 
 # Tools Used
-## SQL: Database management and querying
+#### SQL: Database management and querying
 Excel: Data cleaning and preliminary analysis
 Power BI: Interactive dashboard creation
 Tableau: Advanced data visualization
